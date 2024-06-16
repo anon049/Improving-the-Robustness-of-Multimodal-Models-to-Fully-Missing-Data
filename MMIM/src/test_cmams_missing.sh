@@ -1,5 +1,4 @@
 #!/bin/bash
-# CMAM_PATH="/home/jmg/code/MMIM/mosi_cmam_models/mosi_cmam_0.35133"
 CMAM_PATH="results/saved_models/mosi/cmam_f1.pt"
 DATASET="mosi"
 
